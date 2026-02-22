@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSarhpEğitimKampii
+namespace _01_MainSubject
 {
     internal class Program
     {
@@ -13,7 +13,7 @@ namespace CSarhpEğitimKampii
             
             #region Yazdırma Komutları
 
-            //Console.WriteLine("Merhaba Dünya");
+            ////Console.WriteLine("Merhaba Dünya");
             //Console.Write("Selam");
 
 
@@ -136,7 +136,7 @@ namespace CSarhpEğitimKampii
 
 
             int totalprice = hamburgerCount * hamburgerPrice + cokeCount * cokePrice + waterCount * waterPrice + friesCount * friesPrice + pizzaCount * pizzaPrice + lemonadeCount * LemonadePrice;
-            Console.WriteLine("Toplam Tutar= " + totalprice + " TL");
+            Console.WriteLine("Toplam Tutar = " + totalprice + " TL");
 
 
 
