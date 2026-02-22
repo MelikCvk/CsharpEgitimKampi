@@ -48,7 +48,7 @@ namespace _01_MainSubject
 
             //customerName = "Melik";
             //customerSurname = "Çevik";
-            //customerPhone = "+90 538 556 47 69";
+            //customerPhone = "+90 538 556 40 69";
             //customerEmail = "Melik.cvk04@gmail.com";
             //district = "Sancaktepe";
             //city = "İstanbul";
@@ -66,7 +66,7 @@ namespace _01_MainSubject
 
             //customerName = "Ceren Yasemin";
             //customerSurname = "Çevik";
-            //customerPhone = "+90 535 254 61 21";
+            //customerPhone = "+90 535 250 20 41";
             //customerEmail = "Turgay.ceren@gmail.com";
             //district = "Sancaktepe";
             //city = "İstanbul";
